@@ -11,6 +11,6 @@ for(i in 1:nrow(origAddress))
 }
 
 
-For more see here:
 
-http://www.storybench.org/geocode-csv-addresses-r/
+#For more see here:
+#http://www.storybench.org/geocode-csv-addresses-r/
